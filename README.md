@@ -6,6 +6,10 @@ This project leverages Excel, Power Query, pivot tables, and advanced visualizat
 
 This repository contains an Excel workbook (`Sales_Analysis.xlsx`) and supporting documentation for a sales analysis project. The analysis focuses on extracting, cleaning, and transforming raw sales data using Power Query, then utilizing pivot tables, advanced Excel visualizations, and lookup functions to provide actionable insights. The goal is to understand sales trends, product performance, and customer behavior to enhance customer service and satisfaction.
 
+Here's a screenshot of my project:
+
+<img src="https://github.com/bishal-red123/Sales-Store-analysis---A-data-Analytics-Project/blob/main/Screenshot%202025-04-03%20215013.png" alt="Project Screenshot" width="500">
+
 Key areas of analysis include:
 
 * **Data Transformation with Power Query:** Cleaning and preparing data for analysis.
